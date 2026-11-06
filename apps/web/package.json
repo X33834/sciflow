@@ -52,7 +52,7 @@
     "happy-dom": "^21.0.4",
     "openapi-typescript": "^7.13.0",
     "tailwindcss": "^4.1.0",
-    "typescript": "^5.7.0",
+    "typescript": "^7.0.2",
     "vite": "^6.4.4",
     "vitest": "^5.0.4"
   }
